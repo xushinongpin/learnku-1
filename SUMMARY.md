@@ -15,8 +15,8 @@
   * [1.9. 常见问题 免费](di-yi-7ae0-ji-chu-xin-xi/19-chang-jian-wen-ti-mian-fei.md)
   * [1.10. 收到的赞誉 免费](di-yi-7ae0-ji-chu-xin-xi/110-shou-dao-de-zan-yu-mian-fei.md)
 * [第二章. 开发环境布置](di-er-7ae0-kai-fa-huan-jing-bu-zhi.md)
-  * 2.1. 开发环境 免费
-  * 2.2. 第一个应用，Hello Laravel！ 上次阅读  免费
+  * [2.1. 开发环境 免费](di-er-7ae0-kai-fa-huan-jing-bu-zhi/21-kai-fa-huan-jing-mian-fei.md)
+  * [2.2. 第一个应用，Hello Laravel！ 上次阅读  免费](di-er-7ae0-kai-fa-huan-jing-bu-zhi/22-di-yi-geying-yong-ff0c-hello-laravel-shang-ci-yue-du-mian-fei.md)
   * 2.3. Git 与 GitHub 免费
   * 2.4. 部署上线
   * 2.5. 小结
