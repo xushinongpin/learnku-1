@@ -24,7 +24,7 @@
   * [3.1. 章节说明](di-san-7ae0-gou-jian-ye-mian/31-zhang-jie-shuo-ming.md)
   * [3.2. 创建应用](di-san-7ae0-gou-jian-ye-mian/32-chuang-jian-ying-yong.md)
   * [3.3. 静态页面](di-san-7ae0-gou-jian-ye-mian/33-jing-tai-ye-mian.md)
-  * 3.4. Artisan 命令
+  * [3.4. Artisan 命令](di-san-7ae0-gou-jian-ye-mian/34-artisan-ming-ling.md)
   * 3.5. 小结
 * [第四章. 优化页面](di-si-7ae0-you-hua-ye-mian.md)
   * [4.1. 章节说明](di-si-7ae0-you-hua-ye-mian/41-zhang-jie-shuo-ming.md)
