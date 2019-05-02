@@ -13,7 +13,7 @@
   * [1.7. 本书源码 免费](di-yi-7ae0-ji-chu-xin-xi/17-ben-shu-yuan-ma-mian-fei.md)
   * [1.8. 遇到问题怎么办？ 免费](di-yi-7ae0-ji-chu-xin-xi/18-yu-dao-wen-ti-zen-yao-ban-ff1f-mian-fei.md)
   * [1.9. 常见问题 免费](di-yi-7ae0-ji-chu-xin-xi/19-chang-jian-wen-ti-mian-fei.md)
-  * 1.10. 收到的赞誉 免费
+  * [1.10. 收到的赞誉 免费](di-yi-7ae0-ji-chu-xin-xi/110-shou-dao-de-zan-yu-mian-fei.md)
 * [第二章. 开发环境布置](di-er-7ae0-kai-fa-huan-jing-bu-zhi.md)
   * 2.1. 开发环境 免费
   * 2.2. 第一个应用，Hello Laravel！ 上次阅读  免费
