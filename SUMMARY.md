@@ -17,7 +17,7 @@
 * [第二章. 开发环境布置](di-er-7ae0-kai-fa-huan-jing-bu-zhi.md)
   * [2.1. 开发环境 免费](di-er-7ae0-kai-fa-huan-jing-bu-zhi/21-kai-fa-huan-jing-mian-fei.md)
   * [2.2. 第一个应用，Hello Laravel！ 上次阅读  免费](di-er-7ae0-kai-fa-huan-jing-bu-zhi/22-di-yi-geying-yong-ff0c-hello-laravel-shang-ci-yue-du-mian-fei.md)
-  * 2.3. Git 与 GitHub 免费
+  * [2.3. Git 与 GitHub 免费](di-er-7ae0-kai-fa-huan-jing-bu-zhi/23-git-yu-github-mian-fei.md)
   * 2.4. 部署上线
   * 2.5. 小结
 * [第三章. 构建页面](di-san-7ae0-gou-jian-ye-mian.md)
