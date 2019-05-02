@@ -21,8 +21,8 @@
   * [2.4. 部署上线](di-er-7ae0-kai-fa-huan-jing-bu-zhi/24-bu-shu-shang-xian.md)
   * [2.5. 小结](di-er-7ae0-kai-fa-huan-jing-bu-zhi/25-xiao-jie.md)
 * [第三章. 构建页面](di-san-7ae0-gou-jian-ye-mian.md)
-  * 3.1. 章节说明
-  * 3.2. 创建应用
+  * [3.1. 章节说明](di-san-7ae0-gou-jian-ye-mian/31-zhang-jie-shuo-ming.md)
+  * [3.2. 创建应用](di-san-7ae0-gou-jian-ye-mian/32-chuang-jian-ying-yong.md)
   * 3.3. 静态页面
   * 3.4. Artisan 命令
   * 3.5. 小结
