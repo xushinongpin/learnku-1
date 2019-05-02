@@ -87,7 +87,6 @@ $ php artisan make:controller StaticPagesController
 _app/Http/Controllers/StaticPagesController.php_
 
 ```
-
 <?php
 
 namespace App\Http\Controllers;
@@ -287,7 +286,6 @@ _resources/views/static\_pages/home.blade.php_
 
 ```
 @extends('layouts.default')
-
 ```
 
 使用`@section`和`@stop`代码来填充父视图的`content`区块，所有包含在`@section`和`@stop`中的代码都将被插入到父视图的`content`区块。
@@ -386,11 +384,9 @@ _resources/views/static\_pages/about.blade.php_
 
 我们也可以在`@yield`区块后面进行内容拼接。让我们标题拥有更加丰富的信息。
 
-
-
 _resources/views/layouts/default.blade.php_
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
